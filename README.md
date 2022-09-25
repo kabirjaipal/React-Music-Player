@@ -28,6 +28,9 @@ I'm a Full Stack Developer and here is mine React Music Player
 
 If you have any feedback, please reach out to us at [Discord Server](https://discord.gg/FuKfAREn9f)
 
+## Credits
+[Javascript Mastery](https://github.com/adrianhajdin/project_music_player)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
